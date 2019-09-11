@@ -3,10 +3,6 @@
 ## Instalação
 O processo de instalaço é o mesmo do WordPress. O arquivo SQL com o banco está no diretório sql/capes_ebook.sql
 
-## Programas necessarios
-Apache, PHP e MySQL
-
-
 ### Programas necessarios
 Apache, PHP e MySQL
 
