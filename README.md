@@ -1,4 +1,4 @@
-# INCLUA: Um ambiente virtual de aprendizagem voltado para usuários cegos, surdos, com baixa visão e deficiência auditiva
+# INCLUA V1.0
 
 ## Instalação
 O processo de instalaço é o mesmo do WordPress. O arquivo SQL com o banco está no diretório sql/capes_ebook.sql
